@@ -103,9 +103,11 @@ h3{
    padding: 100px;
    text-align: center;
 }
+
 .pricing-coloum{
-  padding: 3%;
+  padding: 5%;
 }
+
 @media (max-width:1115px) {
   .iphone{
     position: static;
@@ -121,7 +123,7 @@ h3{
   padding: 5%;
   color:white;
 }
-.btn{
+.Download{
   margin:20px;
 }
 .custom{
